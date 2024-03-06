@@ -1,0 +1,45 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : false,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "bb2d7749475ed3c78beb78ee19371a66b90248b47334cdc3dff036c901b78566"
+    }
+  ],
+  "containerPath" : "/Users/kwazar/Swift/TestAppS/template/Coordinator/SideMenu/SideMenuTest/SideMenuTest.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "",
+      "buildProductsPath" : "",
+      "derivedDataPath" : "/Users/kwazar/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/kwazar/Library/Developer/Xcode/DerivedData/SideMenuTest-anttknctiyktxwhabcapdmpacjdy/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/kwazar/Library/Developer/Xcode/DerivedData/SideMenuTest-anttknctiyktxwhabcapdmpacjdy/Index.noindex/PrecompiledHeaders",
+      "pchPath" : ""
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : true,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

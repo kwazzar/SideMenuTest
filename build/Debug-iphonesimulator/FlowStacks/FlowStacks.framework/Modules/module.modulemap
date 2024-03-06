@@ -1,0 +1,11 @@
+framework module FlowStacks {
+  umbrella header "FlowStacks-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module FlowStacks.Swift {
+  header "FlowStacks-Swift.h"
+  requires objc
+}

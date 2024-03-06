@@ -1,0 +1,14 @@
+{
+  'version': 0,
+  'use-external-names': 'false',
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/kwazar/Swift/TestAppS/template/Coordinator/SideMenu/SideMenuTest/build/Debug-iphonesimulator/FlowStacks/FlowStacks.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/kwazar/Swift/TestAppS/template/Coordinator/SideMenu/SideMenuTest/build/Pods.build/Debug-iphonesimulator/FlowStacks.build/unextended-module.modulemap",
+    }]
+  }]
+}

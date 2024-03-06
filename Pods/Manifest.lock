@@ -1,0 +1,16 @@
+PODS:
+  - FlowStacks (0.3.6)
+
+DEPENDENCIES:
+  - FlowStacks (~> 0.3)
+
+SPEC REPOS:
+  trunk:
+    - FlowStacks
+
+SPEC CHECKSUMS:
+  FlowStacks: ea499b20a2f3acb3ba010866c73e588bafa9b795
+
+PODFILE CHECKSUM: b337ab65fae01a91fea213d83d017a96420e2bfa
+
+COCOAPODS: 1.14.3

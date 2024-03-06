@@ -1,0 +1,7 @@
+Target dependency graph (3 targets)
+FlowStacks in Pods, no dependencies
+Pods-SideMenuTest in Pods, depends on:
+FlowStacks in Pods (explicit)
+SideMenuTest in SideMenuTest, depends on:
+Pods-SideMenuTest in Pods (implicit dependency via file 'Pods_SideMenuTest.framework' in build phase 'Link Binary')
+FlowStacks in Pods (implicit dependency via options '-framework FlowStacks' in build setting 'OTHER_LDFLAGS')

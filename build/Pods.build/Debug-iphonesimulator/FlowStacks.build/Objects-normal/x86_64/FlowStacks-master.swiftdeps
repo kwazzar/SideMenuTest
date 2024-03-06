@@ -1,0 +1,20 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "d5bc66bf26fa8bd5e932eec6262657e2b3b102d916f551c7a93c61c7fdf200db"
+build_start_time: [1707868844, 979413986]
+build_end_time: [1707868852, 998976945]
+inputs:
+  ? "/Users/kwazar/Swift/TestAppS/template/Coordinator/SideMenu/SideMenuTest/Pods/FlowStacks/Sources/FlowStacks/Binding+withDelaysIfUnsupported.swift"
+  : [1707868777, 329577922]
+  ? "/Users/kwazar/Swift/TestAppS/template/Coordinator/SideMenu/SideMenuTest/Pods/FlowStacks/Sources/FlowStacks/FlowNavigator+utilities.swift"
+  : [1707868777, 331820964]
+  "/Users/kwazar/Swift/TestAppS/template/Coordinator/SideMenu/SideMenuTest/Pods/FlowStacks/Sources/FlowStacks/FlowNavigator.swift": [1707868777, 331137418]
+  "/Users/kwazar/Swift/TestAppS/template/Coordinator/SideMenu/SideMenuTest/Pods/FlowStacks/Sources/FlowStacks/Node.swift": [1707868777, 331367492]
+  ? "/Users/kwazar/Swift/TestAppS/template/Coordinator/SideMenu/SideMenuTest/Pods/FlowStacks/Sources/FlowStacks/RoutableCollection+utilities.swift"
+  : [1707868777, 330524682]
+  ? "/Users/kwazar/Swift/TestAppS/template/Coordinator/SideMenu/SideMenuTest/Pods/FlowStacks/Sources/FlowStacks/RoutableCollection.swift"
+  : [1707868777, 330070018]
+  "/Users/kwazar/Swift/TestAppS/template/Coordinator/SideMenu/SideMenuTest/Pods/FlowStacks/Sources/FlowStacks/Route.swift": [1707868777, 331594944]
+  "/Users/kwazar/Swift/TestAppS/template/Coordinator/SideMenu/SideMenuTest/Pods/FlowStacks/Sources/FlowStacks/RouteProtocol.swift": [1707868777, 329833269]
+  "/Users/kwazar/Swift/TestAppS/template/Coordinator/SideMenu/SideMenuTest/Pods/FlowStacks/Sources/FlowStacks/Router.swift": [1707868777, 330882310]
+  "/Users/kwazar/Swift/TestAppS/template/Coordinator/SideMenu/SideMenuTest/Pods/FlowStacks/Sources/FlowStacks/View+cover.swift": [1707868777, 330296277]
+  "/Users/kwazar/Swift/TestAppS/template/Coordinator/SideMenu/SideMenuTest/Pods/FlowStacks/Sources/FlowStacks/View+showing.swift": [1707868777, 329312801]

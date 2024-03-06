@@ -1,0 +1,10 @@
+framework module FlowStacks {
+  umbrella header "FlowStacks-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module FlowStacks.__Swift {
+  exclude header "FlowStacks-Swift.h"
+}

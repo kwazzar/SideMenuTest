@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-typealias BuilderClosure_MMP<T> = () -> T
+typealias BuilderClosure<T> = () -> T
 
 struct ZStackWithBackground<Content: View>: View {
     let alignment: Alignment
@@ -15,7 +15,7 @@ struct ZStackWithBackground<Content: View>: View {
 
     init(
         alignment: Alignment = .center,
-        @ViewBuilder content: BuilderClosure_MMP<Content>
+        @ViewBuilder content: BuilderClosure<Content>
     ) {
         self.alignment = alignment
         self.content = content()

@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "438228196451d31963747897251d6bbda95860828d81558420fcfc441026c5dd"
+build_start_time: [1707766278, 361024856]
+build_end_time: [1707766279, 366732120]
+inputs:
+  "/Users/kwazar/Swift/TestAppS/template/Coordinator/SideMenu/SideMenuTest/SideMenuTest/ContentView.swift": [1707765908, 469380855]
+  "/Users/kwazar/Swift/TestAppS/template/Coordinator/SideMenu/SideMenuTest/SideMenuTest/SideMenuTestApp.swift": [1707765908, 462938785]

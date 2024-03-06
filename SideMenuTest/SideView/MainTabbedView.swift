@@ -21,7 +21,7 @@ struct MainTabbedView: View {
     }
 
     @ViewBuilder
-    func pushContent(with path: Binding<MainRoute_MMP>) -> some View {
+    func pushContent(with path: Binding<MainRoute>) -> some View {
         switch path.wrappedValue {
             case .sideView:
                 sideView
@@ -36,17 +36,13 @@ struct MainTabbedView: View {
     var sideView: some View {
         TabView(selection: $navigator.activeTab) {
             HomeView(presentSideMenu: $presentSideMenu)
-                .tag(MMP_TabSD.mods)
+                .tag(TabSD.mods)
             ChatView(presentSideMenu: $presentSideMenu)
-                .tag(MMP_TabSD.skins)
+                .tag(TabSD.skins)
             ProfileView(presentSideMenu: $presentSideMenu)
-                .tag(MMP_TabSD.editor)
+                .tag(TabSD.editor)
             FavoriteView(presentSideMenu: $presentSideMenu)
-                .tag(MMP_TabSD.favourite)
-//            FavoriteView(presentSideMenu: $presentSideMenu)
-//                .tag(MMP_TabSD.maps)
-//            FavoriteView(presentSideMenu: $presentSideMenu)
-//                .tag(MMP_TabSD.myWorks)
+                .tag(TabSD.favourite)
         }
         .overlay(
             SideMenu(isShowing: $presentSideMenu, content:  SideMenuView(presentSideMenu: $presentSideMenu))

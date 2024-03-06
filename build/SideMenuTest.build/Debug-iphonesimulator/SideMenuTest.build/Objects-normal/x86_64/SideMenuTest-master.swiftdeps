@@ -1,0 +1,17 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "1b2961b3456ff42d42f00b7fa07aeafbf3424c452f8b27ca4d95569d97d41f76"
+build_start_time: [1709738001, 581240177]
+build_end_time: [1709738004, 511258125]
+inputs:
+  "/Users/kwazar/Swift/TestAppS/template/Coordinator/SideMenu/SideMenuTest/SideMenuTest/Coordinator.swift": [1709737942, 451836585]
+  "/Users/kwazar/Swift/TestAppS/template/Coordinator/SideMenu/SideMenuTest/SideMenuTest/Header.swift": [1707842762, 540260076]
+  "/Users/kwazar/Swift/TestAppS/template/Coordinator/SideMenu/SideMenuTest/SideMenuTest/SideMenuTestApp.swift": [1707875495, 431944847]
+  "/Users/kwazar/Swift/TestAppS/template/Coordinator/SideMenu/SideMenuTest/SideMenuTest/SideView/MainTabbedView.swift": [1709737970, 589110136]
+  "/Users/kwazar/Swift/TestAppS/template/Coordinator/SideMenu/SideMenuTest/SideMenuTest/SideView/SideMenu.swift": [1707883207, 131386995]
+  "/Users/kwazar/Swift/TestAppS/template/Coordinator/SideMenu/SideMenuTest/SideMenuTest/SideView/SideMenuRowType.swift": [1709737942, 387325286]
+  "/Users/kwazar/Swift/TestAppS/template/Coordinator/SideMenu/SideMenuTest/SideMenuTest/SideView/SideMenuView.swift": [1709737942, 404794931]
+  "/Users/kwazar/Swift/TestAppS/template/Coordinator/SideMenu/SideMenuTest/SideMenuTest/View/ChatView.swift": [1709677087, 205018043]
+  "/Users/kwazar/Swift/TestAppS/template/Coordinator/SideMenu/SideMenuTest/SideMenuTest/View/FavoriteView.swift": [1709677087, 152538299]
+  "/Users/kwazar/Swift/TestAppS/template/Coordinator/SideMenu/SideMenuTest/SideMenuTest/View/HomeView.swift": [1709677087, 121192932]
+  "/Users/kwazar/Swift/TestAppS/template/Coordinator/SideMenu/SideMenuTest/SideMenuTest/View/ProfileView.swift": [1709677087, 181537389]
+  "/Users/kwazar/Swift/TestAppS/template/Coordinator/SideMenu/SideMenuTest/SideMenuTest/ZStackBackground.swift": [1709737985, 241958141]

@@ -27,7 +27,7 @@ struct SideMenuView: View {
         HStack {
             ZStackWithBackground{
                 VStack(alignment: .leading, spacing: 0) {
-                    ForEach(MMP_TabSD.allCases, id: \.self){ tab in
+                    ForEach(TabSD.allCases, id: \.self){ tab in
                         RowView(isSelected: navigationStore.activeTab == tab,
                                 imageName: tab.image,
                                 title: tab.rawValue) {

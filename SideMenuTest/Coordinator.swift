@@ -8,7 +8,7 @@
 import FlowStacks
 import SwiftUI
 
-enum MainRoute_MMP: Hashable {
+enum MainRoute: Hashable {
     case sideView
     case detail
 }
@@ -22,8 +22,8 @@ enum Screen {
 }
 
 final class NavigatorItem: ObservableObject {
-    @Published var routes: Routes<MainRoute_MMP> = [.root(.sideView, embedInNavigationView: true)]
-    @Published var activeTab = MMP_TabSD.mods
+    @Published var routes: Routes<MainRoute> = [.root(.sideView, embedInNavigationView: true)]
+    @Published var activeTab = TabSD.mods
 
     
 }

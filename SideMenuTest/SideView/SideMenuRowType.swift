@@ -40,7 +40,7 @@ enum SideMenuRowType: Int, CaseIterable{
     }
 }
 
-enum MMP_TabSD: String, CaseIterable {
+enum TabSD: String, CaseIterable {
     case mods = "Home"
     case skins = "Skins"
     case editor = "Editor"
@@ -69,6 +69,6 @@ enum MMP_TabSD: String, CaseIterable {
     }
 
     var index: Int {
-        return MMP_TabSD.allCases.firstIndex(of: self) ?? 0
+        return TabSD.allCases.firstIndex(of: self) ?? 0
     }
 }
